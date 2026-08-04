@@ -1,8 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/stokeyer" target="_blank">stokeyer</a> 👋</h1>
+<h1 align="center">creat1vv</h1>
+
+<p align="center">
+  Frontend Developer & Python Enthusiast
+</p>
 
 ###
-
-<h3 align="center">⚡ Tech Stack</h3>
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -43,7 +45,7 @@
 ###
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://t.me/stokeyer" target="_blank">
+  <a href="https://t.me/creat1vv" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
