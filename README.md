@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/stokeyer" target="_blank">stokeyer</a> 👋</h1>
 
-<p align="center">
-  <b>Frontend Developer & Python Enthusiast</b><br>
-  Building modern web applications and automated Telegram bots.
-</p>
-
 ###
 
 <h3 align="center">⚡ Tech Stack</h3>
